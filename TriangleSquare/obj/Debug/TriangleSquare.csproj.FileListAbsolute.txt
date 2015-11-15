@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquare\bin\Debug\TriangleSquare.exe.config
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquare\bin\Debug\TriangleSquare.exe
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquare\bin\Debug\TriangleSquare.pdb
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquare\obj\Debug\TriangleSquare.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquare\obj\Debug\TriangleSquare.exe
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquare\obj\Debug\TriangleSquare.pdb

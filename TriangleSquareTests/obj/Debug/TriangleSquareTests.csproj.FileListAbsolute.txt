@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\bin\Debug\TriangleSquareTests.dll
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\bin\Debug\TriangleSquareTests.pdb
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\bin\Debug\TriangleSquare.exe
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\bin\Debug\TriangleSquare.pdb
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\obj\Debug\TriangleSquareTests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\obj\Debug\TriangleSquareTests.dll
+d:\documents\visual studio 2015\Projects\TriangleSquare\TriangleSquareTests\obj\Debug\TriangleSquareTests.pdb
